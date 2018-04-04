@@ -2,9 +2,15 @@
 
 Send snail mail to...
 
-call at...
+Call at...
 
-email at...
+Email at...
+
+[website](http://people.forestry.oregonstate.edu/meg-krawchuk/people)
+
+
+
+
 
 
 
@@ -20,6 +26,8 @@ Fire ecologist...
 
 *Large public land grant institution*
 
+[Oregon State University](https://www.oregonstate.edu)
+
 **Graduate Teaching/Research Assistant** (September 2016-present)
 
 - **Supervise** online fire ecology course
@@ -28,7 +36,9 @@ Fire ecologist...
 
 ## Simon Fraser University (Burnaby, British Columbia)
 
-**Public institution in Canada*
+*Public institution in Canada*
+
+[Simon Fraser University](https://www.sfu.ca/ )
 
 **Graduate Teaching/Research Assistant** (September 2014-August 2016)
 
@@ -36,8 +46,7 @@ Fire ecologist...
 - **Manage** and **conduct** field data collection for research
 - **Poster Presentation** Association for fire Ecology
 
-[Oregon State University]: https://www.oregonstate.edu
-[Simon Fraser University]: https://www.sfu.ca/
+
 
 ### Technical Skills
 
