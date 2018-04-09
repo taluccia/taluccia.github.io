@@ -16,7 +16,7 @@ Email at...
 
 # Summary of skills
 
-Fire ecologist...
+I am trained as a geographer and fire ecologist. I am interested in the primarily interested in the ecological relationships and influences when disturbances overlap in time and space.
 
 
 
@@ -56,4 +56,18 @@ Fire ecologist...
 | ArcGIS       | 10 years   |
 | ENVI         | 2 years    |
 | Earth Engine | 6 months   |
+
+## Some Addition Items
+
+### Good Quote
+
+> To be whole. To be complete. Wildness reminds us what it means to be human, what we are connected to rather than what we are separate from.” — Terry Tempest Williams
+
+
+
+### Photo
+
+#### Happy Dog
+
+![Snow Puppy](https://github.com/taluccia/taluccia.github.io/blob/master/apollo.jpg)
 
