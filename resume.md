@@ -16,7 +16,7 @@ Email at...
 
 # Summary of skills
 
-I am trained as a geographer and fire ecologist. I am interested in the primarily interested in the ecological relationships and influences when disturbances overlap in time and space.
+I am trained as a geographer and fire ecologist. I am interested in the ecological relationships and influences when disturbances overlap in time and space.
 
 
 
